@@ -82,12 +82,12 @@ A developer who likes building things that mix software with the physical world 
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Nezz77/hologram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=hologram&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
-  <a href="https://github.com/Nezz77/airDraw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=airDraw&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
-  <a href="https://github.com/Nezz77/Lost-FoundSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=Lost-FoundSystem&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
-  <a href="https://github.com/Nezz77/HarvestIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=HarvestIQ&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
-  <a href="https://github.com/Nezz77/FutureTech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=FutureTech&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
-  <a href="https://github.com/Nezz77/nezz77.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=nezz77.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/hologram"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Nezz77&repo=hologram&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/airDraw"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Nezz77&repo=airDraw&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/Lost-FoundSystem"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Nezz77&repo=Lost-FoundSystem&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/HarvestIQ"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Nezz77&repo=HarvestIQ&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/FutureTech"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Nezz77&repo=FutureTech&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/nezz77.github.io"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Nezz77&repo=nezz77.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
 </p>
 
 <p align="center"><sub>Every card above links straight to the repo — click one to dig in.</sub></p>
@@ -124,15 +124,8 @@ A developer who likes building things that mix software with the physical world 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nezz77&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF00FF&point=FFFFFF&area=true" width="100%"/>
 </p>
 
-<!--START_SECTION:activity-->
-<!-- This section can be auto-populated with recent commits using the
-     "github-activity-readme" GitHub Action — see note at the bottom. -->
-<!--END_SECTION:activity-->
-
-> 🐍 Want the animated contribution snake below? Add the `platane/snk` GitHub Action to this repo — it auto-generates and commits a live SVG each day.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nezz77/Nezz77/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation (enable workflow to activate)"/>
+  <img src="https://raw.githubusercontent.com/Nezz77/Nezz77/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation"/>
 </p>
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -144,6 +137,16 @@ A developer who likes building things that mix software with the physical world 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nezz77&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+### 🍎 Words I Build By
+
+<p align="center">
+<i>"The only way to do great work is to love what you do."</i>
+<br>
+— Steve Jobs
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
