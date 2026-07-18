@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
@@ -6,22 +7,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=90&lines=Hi+%F0%9F%8C%9D+I'm+Nesandu;Software+%2B+Physical+World+Builder;Computer+Vision+%7C+IoT+%7C+Full-Stack;Currently+building+Batchmate+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
+<br>
+
+<a href="#about"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=About.me&logoColor=00F0FF" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-0D1117?style=for-the-badge&logo=minutemailer&logoColor=FF00FF" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=00F0FF" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/Stats-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00F0FF" /></a>
+<a href="#trophies"><img src="https://img.shields.io/badge/Trophies-0D1117?style=for-the-badge&logo=awesomelists&logoColor=FF00FF" /></a>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+<a id="about"></a>
 ### 💫 About Me
 
 A developer who likes building things that mix software with the physical world — from computer vision experiments to full-stack web apps.
 
 - 🔭 Currently working on **Batchmate** — a macOS-based University batch management app
+- 🌾 Also building **HarvestIQ** — an AI-powered smart agriculture platform for Sri Lankan farmers, buyers, and agri-officers
 - 🤝 Looking to collaborate on open-source **Computer Vision** or **IoT / hardware-interfacing** projects
 - 🌱 Currently learning **TypeScript** and modern **React** patterns
 - 💬 Ask me about **JavaScript, Python, Java (Spring Boot), React, computer vision with OpenCV**
 - 💁 Fun fact: I built two fans that sync up to fake a hologram — physics said no, I said watch me ⚡
 
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+<a id="connect"></a>
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -32,8 +47,15 @@ A developer who likes building things that mix software with the physical world 
   <a href="mailto:nesanduhm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Nezz77?tab=followers"><img src="https://img.shields.io/github/followers/Nezz77?label=Follow&style=social" /></a>
+</p>
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+<a id="stack"></a>
 ### 💻 Tech Stack
 
 <p align="center">
@@ -42,7 +64,7 @@ A developer who likes building things that mix software with the physical world 
   </a>
 </p>
 
-<p align="center"><sub>Hover over the icons above — they scale and glow on skillicons.dev's interactive grid.</sub></p>
+<p align="center"><sub>Click the badge to open skillicons.dev.</sub></p>
 
 <details>
 <summary>📋 Full badge list (click to expand)</summary>
@@ -52,8 +74,29 @@ A developer who likes building things that mix software with the physical world 
 
 </details>
 
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+<a id="projects"></a>
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Nezz77/hologram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=hologram&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/airDraw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=airDraw&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/Lost-FoundSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=Lost-FoundSystem&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/HarvestIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=HarvestIQ&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/FutureTech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=FutureTech&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+  <a href="https://github.com/Nezz77/nezz77.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezz77&repo=nezz77.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF" /></a>
+</p>
+
+<p align="center"><sub>Every card above links straight to the repo — click one to dig in.</sub></p>
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+<a id="stats"></a>
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -65,8 +108,16 @@ A developer who likes building things that mix software with the physical world 
   <img src="https://streak-stats.demolab.com/?user=Nezz77&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF" />
 </p>
 
+<p align="center">
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nezz77&theme=github_dark" />
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nezz77&theme=github_dark" />
+</p>
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+<a id="activity"></a>
 ### 📈 Commit Activity
 
 <p align="center">
@@ -78,18 +129,21 @@ A developer who likes building things that mix software with the physical world 
      "github-activity-readme" GitHub Action — see note at the bottom. -->
 <!--END_SECTION:activity-->
 
-> 🐍 Want the animated contribution snake below? Add the `platane/snk` GitHub Action to this repo (instructions at the bottom) — it auto-generates and commits a live SVG each day.
+> 🐍 Want the animated contribution snake below? Add the `platane/snk` GitHub Action to this repo — it auto-generates and commits a live SVG each day.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nezz77/Nezz77/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation (enable workflow to activate)"/>
 </p>
 
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+<a id="trophies"></a>
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nezz77&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nezz77&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
