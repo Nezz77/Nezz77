@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="18" viewBox="0 0 1200 18" role="img" aria-label="Red and blue divider">
+  <defs><linearGradient id="g"><stop stop-color="#ff355e" stop-opacity="0"/><stop offset=".35" stop-color="#ff355e"/><stop offset=".65" stop-color="#3b82f6"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></linearGradient></defs>
+  <path d="M18 9H563L572 3H590M610 15H628L637 9H1182" fill="none" stroke="url(#g)" stroke-width="1.5"/>
+  <path d="M2 1V17H18" fill="none" stroke="#ff355e" stroke-width="1.5"/>
+  <path d="M1198 1V17H1182" fill="none" stroke="#3b82f6" stroke-width="1.5"/>
+  <circle cx="18" cy="9" r="2" fill="#ff355e"/>
+  <circle cx="1182" cy="9" r="2" fill="#3b82f6"/>
+  <path d="M595 9L600 4L605 9L600 14Z" fill="#3b82f6"/>
+</svg>
